@@ -4,7 +4,7 @@
 1. Mugo Joseph Wamiti 
 ****
 ## Project Description
-
+Designing and Developing a travel expense reimbursement platform for businesses with a global workforce. Chimoney's Developer API would be utilized to process travel expense reimbursements for employees, ensuring hassle-free and timely payment.
 ******
 *****
 ## SetUp Instruction
